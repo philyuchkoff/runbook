@@ -85,8 +85,8 @@ Performance metrics are collected using the `collectd` process on each host.
 Data is logged to a TimescaleDB database and visualized with a Grafana dashboard.
 Links are provided below to allow the user to navigate to the appropriate Grafana dashboards which show the status of this Artifactory instance:
 
-* Artifactory Application Performance  (Grafana dashboard)
-* Artifact and Repository count  (Grafana dashboard)
+* Artifactory Application Performance [Grafana dashboard](Grafana dashboard)
+* Artifact and Repository count [Grafana dashboard](Grafana dashboard)
 
 ## Log Aggregation
 
